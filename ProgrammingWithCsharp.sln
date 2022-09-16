@@ -1,19 +1,23 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 25.0.1703.4
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgrammingWithCsharp", "ProgrammingWithCsharp\ProgrammingWithCsharp.csproj", "{B7F39E2B-F037-4673-8843-59CEE1E0411E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProgrammingWithCsharp", "ProgrammingWithCsharp\ProgrammingWithCsharp.csproj", "{B7F39E2B-F037-4673-8843-59CEE1E0411E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab2", "Lab2\Lab2.csproj", "{07CB7630-A6A4-4D3E-A4A6-7DE0873B1521}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab2", "Lab2\Lab2.csproj", "{07CB7630-A6A4-4D3E-A4A6-7DE0873B1521}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab3", "Lab3\Lab3.csproj", "{9B53D0C3-4E3E-47B0-88AD-74B227A951DF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab3", "Lab3\Lab3.csproj", "{9B53D0C3-4E3E-47B0-88AD-74B227A951DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab4", "Lab4\Lab4.csproj", "{1FD2E154-C67D-4FF2-8F75-54B9A39FB84E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab4", "Lab4\Lab4.csproj", "{1FD2E154-C67D-4FF2-8F75-54B9A39FB84E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab5", "Lab5\Lab5.csproj", "{693DD66D-CB14-474A-8BA3-C0C1260C83B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab5", "Lab5\Lab5.csproj", "{693DD66D-CB14-474A-8BA3-C0C1260C83B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab6", "Lab6\Lab6.csproj", "{06C9B2B3-F545-40F7-9AFC-DF99EA7D69E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab6", "Lab6\Lab6.csproj", "{06C9B2B3-F545-40F7-9AFC-DF99EA7D69E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab7", "Lab7\Lab7.csproj", "{D08E9181-982A-418A-AA3A-A7FCBAA85D81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab7.2", "Lab7.2\Lab7.2.csproj", "{6854099C-A2A6-47AD-8CD3-92457815BD00}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,14 @@ Global
 		{06C9B2B3-F545-40F7-9AFC-DF99EA7D69E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06C9B2B3-F545-40F7-9AFC-DF99EA7D69E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06C9B2B3-F545-40F7-9AFC-DF99EA7D69E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D08E9181-982A-418A-AA3A-A7FCBAA85D81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D08E9181-982A-418A-AA3A-A7FCBAA85D81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D08E9181-982A-418A-AA3A-A7FCBAA85D81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D08E9181-982A-418A-AA3A-A7FCBAA85D81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6854099C-A2A6-47AD-8CD3-92457815BD00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6854099C-A2A6-47AD-8CD3-92457815BD00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6854099C-A2A6-47AD-8CD3-92457815BD00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6854099C-A2A6-47AD-8CD3-92457815BD00}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
